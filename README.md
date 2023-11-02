@@ -19,9 +19,9 @@
 2. Установка зависимостей
    
    Установим зависимости:
-      `pip install django`
-      `pip install django-bootstrap4`
-      `pip install tzdata`
+      - `pip install django`
+      - `pip install django-bootstrap4`
+      - `pip install tzdata`
 
 4. Запуск сервера
 
