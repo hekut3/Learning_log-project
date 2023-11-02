@@ -18,8 +18,11 @@
 
 2. Установка зависимостей
    
-   Установим зависимости: `pip install -r requirements.txt`
+   Установим зависимости:
+      `pip install django`
+      `pip install django-bootstrap4`
+      `pip install tzdata`
 
-3. Запуск сервера
+4. Запуск сервера
 
    Запустим сервер: `python manage.py runserver`
